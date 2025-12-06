@@ -40,7 +40,7 @@ The model uses **GridSearchCV** to automatically find the best parameters:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/SCT_ML_3.git](https://github.com/YOUR_USERNAME/SCT_ML_3.git)
+    git clone [https://github.com/JeevanS-0721/SCT_ML_3.git](https://github.com/JeevanS-0721/SCT_ML_3.git)
     cd SCT_ML_3
     ```
 
